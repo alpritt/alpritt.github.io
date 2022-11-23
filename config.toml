@@ -1,0 +1,4 @@
+baseURL = 'http://alanpritt.com/'
+languageCode = 'en-us'
+title = 'Alan Pritt'
+theme = "ananke"
