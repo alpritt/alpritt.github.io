@@ -30,7 +30,7 @@ HRV has been recognised as a useful clinical tool since the 1960s, but until rec
 
 Suddenly we have access to a new strand of data, with the potential to provide insights into how your body is responding to your training as well as life's other stresses.
 
-When we look at this HRV data, we are not so much interested in fitness of the heart itself, but in what it can reveal about your physiology more widely. Your nervous system gives instructions to your heart based on activity elsewhere in your body, so slight changes in your heart beat can reveal what aspect of your nervous system is more active and therefore give clues to what type of processes are occuring within your body.
+When we look at this HRV data, we are not so much interested in fitness of the heart itself, but in what it can reveal about your physiology more widely. Your nervous system gives instructions to your heart based on activity elsewhere in your body, so slight changes in your heart beat can reveal which aspect of your nervous system is more active and therefore give clues to what type of processes are occuring within your body.
 
 Your nervous system can be split into two branches:
 
