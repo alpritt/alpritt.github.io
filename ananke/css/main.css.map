@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/alanpritt/cabinet/code/scratchpad",
+	"sourceRoot": "/home/runner/work/alpritt.github.io/alpritt.github.io",
 	"sources": [
 		"ananke/css/main.css"
 	],
