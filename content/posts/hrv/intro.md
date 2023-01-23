@@ -1,9 +1,6 @@
 ---
 title: "An Introduction to Heart Rate Variability"
 date: 2023-01-18T10:31:05Z
-draft: false
-_build:
- list: never
 ---
 Back when I was a school boy, after a bout of running in the sports hall, our teacher told us to feel for our pulse and count each beat while he timed us. We then rested for a couple of minutes and counted again. The second count was obviously lower as my heart rate had slowed while resting between the first and second measurements.
 
